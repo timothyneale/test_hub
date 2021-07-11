@@ -14,3 +14,7 @@ print(hello)
 hello = 'this is an edited string'
 
 print(hello)
+
+
+hello = 'testtesttest'
+print(hello)
