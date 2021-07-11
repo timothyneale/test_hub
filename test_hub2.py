@@ -5,16 +5,6 @@ Created on Sun Jul 11 10:01:44 2021
 
 @author: timothy
 """
-hello = 'hello github'
+hello = 'hello github test test test test test'
 
-
-print(hello)
-
-
-hello = 'this is an edited string'
-
-print(hello)
-
-
-hello = 'testtesttest1111111111'
 print(hello)
